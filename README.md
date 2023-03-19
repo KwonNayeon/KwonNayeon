@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👩‍💻 I'm a self-motivated Data Scientist with 2.5 years of experience in the field of causal inference.
-
+👩‍💻 I'm a self-motivated Data Scientist with 2.5 years of academic experience in Statistics.
+Cancel changes
 📚 My field of study is causal inference, and I have knowledge in statistics, data analysis, and machine learning. I have experience working with programming languages such as R, Python, and SQL, and I'm always keeping up-to-date with the latest technologies through self-learning.
 
 📈 I use GitHub to upload "Today I Learned" notes and share my learning journey with others. I'm passionate about discovering insights hidden within data and enjoy working on various projects in my spare time.
