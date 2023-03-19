@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi everyone 👋
 
 <!--
 **KwonNayeon/KwonNayeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi, I'm Nayeon, a self-motivated Data Scientist with 2.5 years of experience in the field of causal inference.
+👩‍💻 I'm a self-motivated Data Scientist with 2.5 years of experience in the field of causal inference.
 
 📚 My field of study is causal inference, and I have knowledge in statistics, data analysis, and machine learning. I have experience working with programming languages such as R, Python, and SQL, and I'm always keeping up-to-date with the latest technologies through self-learning.
 
