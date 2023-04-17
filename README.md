@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👩‍💻 I'm a self-motivated Data Scientist with 2.5 years of academic experience in Statistics.
+👩‍💻 As a self-motivated Data Scientist with 2.5 years of academic experience in Statistics, I am driven to make the world a better place through data-driven decisions.
 
-📚 My field of study is causal inference, and I have knowledge in statistics, data analysis, and machine learning. I have experience working with programming languages such as R, Python, and SQL, and I'm always keeping up-to-date with the latest technologies through self-learning.
+📚 My field of study is causal inference, and I conducted a quantitative analysis on the causal effect of urban parks on children's happiness using my problem-solving skills. I have expertise in statistics, data analysis, and machine learning, and experience working with programming languages such as R, Python, and SQL. I stay up-to-date with the latest technologies through self-directed learning.
 
-📈 I use GitHub to upload "Today I Learned" notes and share my learning journey with others. I'm passionate about discovering insights hidden within data and enjoy working on various projects in my spare time.
+📈 I use GitHub to upload 'Today I Learned' notes and machine learning projects, sharing my learning journey with others. I am passionate about discovering insights hidden within data and enjoy working on various projects in my spare time.
 
-🔎 I'm currently seeking a full-time position as a Junior Data Scientist or Machine Learning Engineer in a company that values innovation and offers opportunities for growth and development.
+🔎 I am currently interning at Statistics Korea and seeking a full-time position as a Junior Data Scientist or Machine Learning Engineer in a company that values inclusivity and offers opportunities for growth and development.
