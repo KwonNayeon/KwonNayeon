@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 📚 My field of study is causal inference, and I conducted a quantitative analysis on the causal effect of urban parks on children's happiness using my problem-solving skills. I have expertise in statistics, data analysis, and machine learning, and experience working with programming languages such as R, Python, and SQL. I stay up-to-date with the latest technologies through self-directed learning.
 
-📈 I use GitHub to upload 'Today I Learned' notes and machine learning projects, sharing my learning journey with others. I am passionate about discovering insights hidden within data and enjoy working on various projects in my spare time.
+📈 I use GitHub to upload my 'Today I Learned' notes and machine learning projects, sharing my learning journey with others. I am passionate about uncovering insights hidden within data, and using that knowledge to solve real-life problems. I enjoy working on a variety of projects in my spare time and am constantly seeking new opportunities to learn and grow.
 
 🔎 I am currently interning at Statistics Korea and seeking a full-time position as a Junior Data Scientist or Machine Learning Engineer in a company that values inclusivity and offers opportunities for growth and development.
