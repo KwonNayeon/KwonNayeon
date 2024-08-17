@@ -16,7 +16,7 @@
 
 ### 🛠️ **Tools & Technologies**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KwonNayeon&layout=compact&hide=jupyter%20notebook,shell,HTML,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KwonNayeon&layout=compact&hide=jupyter%20notebook,shell,HTML,css)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ![Nayeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=KwonNayeon&count_private=true&theme=dracula)
 ---
 
