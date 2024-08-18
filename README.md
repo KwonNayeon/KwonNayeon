@@ -17,6 +17,8 @@
 ### 🛠️ **Tools & Technologies**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KwonNayeon&layout=compact&hide=jupyter%20notebook,shell,HTML,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Static Badge](https://img.shields.io/badge/Blog-89CFF0?style=flat-square&link=https%3A%2F%2Fkwonnayeon.github.io%2F)
+
 <!-- ![Nayeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=KwonNayeon&count_private=true&theme=dracula)
 ---
 
