@@ -2,28 +2,41 @@
 
 ### Hi Everyone! 👋
 
-👩‍💻 **Welcome! I’m a Passionate Data Scientist** with over two years of academic experience in Statistics and more than a year of practical work as a Statistical Analyst in a government organization. I am committed to making the world a better place through data-driven decisions.
+👩‍💻 **Welcome! I’m Nayeon, a Passionate Data Scientist** with over two years of academic experience in Statistics and more than a year of practical work as a Statistical Analyst in a government organization. I am committed to making the world a better place through data-driven decisions.
 
-📚 **My Expertise Lies in Causal Inference**, where I have conducted quantitative analyses, such as evaluating the causal effect of urban parks on children's happiness. My technical skills include:
+📚 **My Expertise Lies in Causal Inference,** where I have conducted quantitative analyses, such as evaluating the causal effect of urban parks on children's happiness. My technical skills include:
 
-- **Programming Languages**: R, Python
-- **Data Manipulation & Querying**: SQL - Oracle, PostgreSQL
-- **Continuous Learning**: I stay up-to-date with the latest technologies through self-directed learning.
+- **Programming Languages:** R, Python
+- **Data Manipulation & Querying:** SQL - Oracle, PostgreSQL
+- **Continuous Learning:** I stay up-to-date with the latest technologies through self-directed learning.
 
 🔎 **I’m Actively Seeking** a full-time position as a Junior Data Scientist or Machine Learning Engineer. I’m eager to join a company that values inclusivity and offers opportunities for growth and development.
 
 ---
 
-### 🛠️ **Tools & Technologies**
+### 🌐 Connect with Me
+
+[![Blog Badge](https://img.shields.io/badge/Blog-89CFF0?style=flat-square)](https://kwonnayeon.github.io/)
+[![Medium Badge](https://img.shields.io/badge/Medium-000000?style=flat-square)](https://medium.com/@nayeonkn0330)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square)](https://www.linkedin.com/in/nayeon-kwon-443573192/)
+[![Mail Badge](https://img.shields.io/badge/Mail-f2a60c?style=flat-square)](mailto:nayeonkn0330@gmail.com)
+
+---
+
+### 🛠️ Tools & Technologies
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KwonNayeon&layout=compact&hide=jupyter%20notebook,shell,HTML,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-![Static Badge](https://img.shields.io/badge/Blog-89CFF0?style=flat-square&link=https%3A%2F%2Fkwonnayeon.github.io%2F)
 
-<!-- ![Nayeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=KwonNayeon&count_private=true&theme=dracula)
+<!-- ---
+
+### ⭐ GitHub Stats
+
+Uncomment the line below to show your GitHub stats
+[![Nayeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=KwonNayeon&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 **Note:**
 
 - The header image was generated using [capsule-render](https://github.com/kyechan99/capsule-render), an amazing project by [KyeChan99](https://github.com/kyechan99). If you're interested in creating your own custom headers, check out the [repository](https://github.com/kyechan99/capsule-render).
-- The `github-readme-stats` is an amazing tool created by [Anurag Hazra](https://github.com/anuraghazra). Make sure to check out the [repository](https://github.com/anuraghazra/github-readme-stats) if you want to add similar stats to your GitHub profile!
--->
+- The `github-readme-stats` is an amazing tool created by [Anurag Hazra](https://github.com/anuraghazra). Make sure to check out the [repository](https://github.com/anuraghazra/github-readme-stats) if you want to add similar stats to your GitHub profile!  -->
