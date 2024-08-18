@@ -69,10 +69,10 @@ Uncomment the line below to show your GitHub stats
 
 ### 🌟 **Projects**
 
-- **[Causal Effect of Urban Parks on Children’s Happiness](#)**
+- **[Causal Effect of Urban Parks on Children’s Happiness](https://github.com/KwonNayeon/urban-parks-childrens-happiness)**
   - Investigated the causal effect of the size of urban parks on children's happiness using propensity score methods.
 
-- **[Small and Medium-sized Enterprises (SMEs) Closure Prediction Project](#)**
+- **[Small and Medium-sized Enterprises (SMEs) Closure Prediction Project](https://github.com/KwonNayeon/numble)**
   - Utilized machine learning models in R to predict SME closures, achieving an F1 score of 0.992 with the CatBoost model.
 
 ---
