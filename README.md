@@ -74,6 +74,9 @@ Uncomment the line below to show your GitHub stats
 
 - **[Small and Medium-sized Enterprises (SMEs) Closure Prediction Project](https://github.com/KwonNayeon/numble)**
   - Utilized machine learning models in R to predict SME closures, achieving an F1 score of 0.992 with the CatBoost model.
+
+- **[Medium Post Projects](https://github.com/KwonNayeon/medium-post-projects)**
+  - Code associated with my Medium posts.
 <!-- 
 ---
 
