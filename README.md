@@ -7,7 +7,7 @@
 
 📚 **My Expertise Lies in Causal Inference,** where I have conducted quantitative analyses, such as evaluating the causal effect of urban parks on children's happiness. My technical skills include:
 
-- **Programming Languages:** R, Python
+- **Programming Languages:** Python, R
 - **Data Manipulation & Querying:** SQL - Oracle, PostgreSQL
 - **Continuous Learning:** I stay up-to-date with the latest technologies through self-directed learning.
 
@@ -61,9 +61,9 @@ Uncomment the line below to show your GitHub stats
 
 ### 🛠️ **Technical Skills**
 
-- **Programming Languages:** R, Python
+- **Programming Languages:** Python, R
 - **Data Manipulation & Querying:** SQL (Oracle, PostgreSQL)
-- **Specialization:** Causal inference, Bayesian statistics, Machine Learning
+- **Specialization:** Causal inference, Bayesian statistics, Machine Learning, Deep Learning
 
 ---
 
