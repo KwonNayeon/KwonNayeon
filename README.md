@@ -55,7 +55,7 @@ Uncomment the line below to show your GitHub stats
 [![Blog Badge](https://img.shields.io/badge/Blog-89CFF0?style=flat-square)](https://kwonnayeon.github.io/)
 [![Medium Badge](https://img.shields.io/badge/Medium-000000?style=flat-square)](https://medium.com/@nayeonkn0330)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square)](https://www.linkedin.com/in/nayeon-kwon-443573192/)
-[![Mail Badge](https://img.shields.io/badge/Mail-f2a60c?style=flat-square)](mailto:nayeonkn0330@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/Mail-f2a60c?style=flat-square)](mailto:nayeon.k.datacareer@gmail.com)
 
 ---
 
