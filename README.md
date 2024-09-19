@@ -42,11 +42,11 @@ Uncomment the line below to show your GitHub stats
 - The header image was generated using [capsule-render](https://github.com/kyechan99/capsule-render), an amazing project by [KyeChan99](https://github.com/kyechan99). If you're interested in creating your own custom headers, check out the [repository](https://github.com/kyechan99/capsule-render).
 - The `github-readme-stats` is an amazing tool created by [Anurag Hazra](https://github.com/anuraghazra). Make sure to check out the [repository](https://github.com/anuraghazra/github-readme-stats) if you want to add similar stats to your GitHub profile!  -->
 
-[![header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=250&section=header&text=Hello%20World!%20I'm%20Nayeon&fontSize=50&fontAlignY=40&desc=Junior%20Data%20Scientist&descAlignY=60&descAlign=70&fontColor=ffffff)](https://github.com/kyechan99/capsule-render/tree/master)
+[![header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=250&section=header&text=Hello%20World!%20I'm%20Nayeon&fontSize=50&fontAlignY=40&desc=Data%20Scientist&descAlignY=60&descAlign=70&fontColor=ffffff)](https://github.com/kyechan99/capsule-render/tree/master)
 
 ### Hi Everyone! 👋
 
-👩‍💻 **Welcome! I’m Nayeon, a Junior Data Scientist** passionate about leveraging data to drive impactful decisions. I have a solid foundation in Statistics and hands-on experience as a Statistical Analyst in a government organization.
+👩‍💻 **Welcome! I’m Nayeon, a Data Scientist** passionate about leveraging data to drive impactful decisions. I have a solid foundation in Statistics and hands-on experience as a Statistical Analyst in a government organization.
 
 ---
 
