@@ -46,11 +46,11 @@ Uncomment the line below to show your GitHub stats
 
 ### Hi Everyone! 👋
 
-👩‍💻 **Welcome! I’m Nayeon, a Data Scientist** passionate about leveraging data to drive impactful decisions. I have a solid foundation in Statistics and hands-on experience as a Statistical Analyst in a government organization.
+**Welcome! I’m Nayeon, a Data Scientist** passionate about leveraging data to drive impactful decisions. I have a solid foundation in Statistics and hands-on experience as a Statistical Analyst in a government organization.
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 
 [![Blog Badge](https://img.shields.io/badge/Blog-89CFF0?style=flat-square)](https://kwonnayeon.github.io/)
 [![Medium Badge](https://img.shields.io/badge/Medium-000000?style=flat-square)](https://medium.com/@nayeonkwonds)
@@ -59,7 +59,7 @@ Uncomment the line below to show your GitHub stats
 
 ---
 
-### 🛠️ **Technical Skills**
+### **Technical Skills**
 
 - **Programming Languages:** R, Python
 - **Data Manipulation & Querying:** SQL (Oracle, PostgreSQL)
@@ -67,7 +67,7 @@ Uncomment the line below to show your GitHub stats
 
 ---
 
-### 🌟 **Projects**
+### **Projects**
 
 - **[Causal Effect of Urban Parks on Children’s Happiness](https://github.com/KwonNayeon/urban-parks-childrens-happiness)**
   - Investigated the causal effect of the size of urban parks on children's happiness using propensity score methods.
