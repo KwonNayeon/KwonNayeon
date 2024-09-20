@@ -63,7 +63,7 @@ Uncomment the line below to show your GitHub stats
 
 - **Programming Languages:** Python, R
 - **Data Manipulation & Querying:** SQL (Oracle, PostgreSQL)
-- **Specialization:** Statistics (Causal inference, Bayesian statistics), Machine Learning (Regression, Tree-Based Models, Boosting)
+- **Specialization:** Statistics (Causal Inference, Bayesian Statistics), Machine Learning (Regression, Tree-Based Models, Boosting)
 
 ---
 
