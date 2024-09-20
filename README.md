@@ -61,7 +61,7 @@ Uncomment the line below to show your GitHub stats
 
 ### 🛠️ **Technical Skills**
 
-- **Programming Languages:** Python, R
+- **Programming Languages:** R, Python
 - **Data Manipulation & Querying:** SQL (Oracle, PostgreSQL)
 - **Specialization:** Statistics (Causal Inference, Bayesian Statistics), Machine Learning (Regression, Tree-Based Models, Boosting)
 
