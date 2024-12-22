@@ -58,7 +58,7 @@ I'm Nayeon, a passionate Data Scientist with a solid foundation in Statistics an
 ### **Technical Skills**
 
 - **Programming Languages:** R, Python
-- **Data Manipulation & Querying:** SQL (Oracle, PostgreSQL)
+- **Data Manipulation & Querying:** SQL (Oracle, PostgreSQL, SQLite)
 - **Cloud Platform:** AWS
 - **Specialization:** Statistics (Causal Inference, Bayesian Statistics), Machine Learning (Regression, Tree-Based Models, Boosting)
 
