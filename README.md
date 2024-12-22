@@ -50,10 +50,10 @@ I'm Nayeon, a passionate Data Scientist with a solid foundation in Statistics an
 
 ### Connect with Me
 
-[![Blog Badge](https://img.shields.io/badge/Blog-89CFF0?style=flat-square)](https://kwonnayeon.github.io/)
-[![Medium Badge](https://img.shields.io/badge/Medium-000000?style=flat-square)](https://medium.com/@nayeonkwonds)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square)](https://www.linkedin.com/in/kwonnayeon/)
-[![Mail Badge](https://img.shields.io/badge/Mail-f2a60c?style=flat-square)](mailto:nayeon.k.datacareer@gmail.com)
+[![Blog](https://img.shields.io/badge/Blog-%2321759B?style=flat-square&logo=github&logoColor=white)](https://kwonnayeon.github.io/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@nayeonkwonds)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kwonnayeon/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23f2a60c?style=flat-square&logo=gmail&logoColor=white)](mailto:nayeon.k.datacareer@gmail.com)
 
 ### **Technical Skills**
 
