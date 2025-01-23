@@ -64,8 +64,8 @@ I'm Nayeon, a passionate Data Scientist with a solid foundation in Statistics an
 
 ### **Projects**
 
-- **[Data Science Consulting Projects](https://github.com/KwonNayeon/data-science-consulting-projects)**
-  - Developing ML-based spam detection systems using Python and AWS, with focus on identifying sophisticated "gray area" content.
+- **[Data Science Portfolio](https://github.com/KwonNayeon/data-science-portfolio)**
+  - ML projects with focus on text classification using Python.
 
 - **[Causal Effect of Urban Parks on Children’s Happiness](https://github.com/KwonNayeon/urban-parks-childrens-happiness)**
   - Investigated the causal effect of urban park size on children's happiness, using propensity score methods to uncover valuable insights.
