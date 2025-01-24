@@ -64,17 +64,17 @@ I'm Nayeon, a passionate Data Scientist with a solid foundation in Statistics an
 
 ### **Projects**
 
-- **[Data Science Portfolio](https://github.com/KwonNayeon/data-science-portfolio)**
+- **[SMS Spam Detection System](https://github.com/KwonNayeon/sms-spam-classifier)**
   - ML projects with focus on text classification using Python.
 
 - **[Causal Effect of Urban Parks on Children’s Happiness](https://github.com/KwonNayeon/urban-parks-childrens-happiness)**
-  - Investigated the causal effect of urban park size on children's happiness, using propensity score methods to uncover valuable insights.
+  - Investigated the causal impact of urban park size on children's happiness using propensity score methods, uncovering valuable insights for urban planning.
 
 - **[Small and Medium-sized Enterprises (SMEs) Closure Prediction Project](https://github.com/KwonNayeon/numble)**
-  - Developed machine learning models in R to predict SME closures, achieving an impressive F1 score of 0.992 with the CatBoost model.
+  - Developed machine learning models in R using RandomForest, CatBoost, and BART to predict SME closures, with CatBoost achieving the highest F1 score of 0.992.
 
 - **[Medium Post Projects](https://github.com/KwonNayeon/medium-post-projects)**
-  - Explored various data science topics through my published Medium articles.
+  - Explored diverse data science concepts through projects accompanying my published Medium articles, focusing on practical applications and storytelling.
  
 Feel free to reach out if you'd like to discuss my work or explore collaboration opportunities.
 <!-- 
