@@ -65,7 +65,7 @@ I'm Nayeon, a passionate Data Scientist with a solid foundation in Statistics an
 ### **Projects**
 
 - **[SMS Spam Detection System](https://github.com/KwonNayeon/sms-spam-classifier)**
-  - ML projects with focus on text classification using Python.
+  - Currently building a machine learning pipeline to classify SMS spam messages using Python, focusing on robust text classification techniques.
 
 - **[Causal Effect of Urban Parks on Children’s Happiness](https://github.com/KwonNayeon/urban-parks-childrens-happiness)**
   - Investigated the causal impact of urban park size on children's happiness using propensity score methods, uncovering valuable insights for urban planning.
