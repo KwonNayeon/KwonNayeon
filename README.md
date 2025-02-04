@@ -46,28 +46,34 @@ Uncomment the line below to show your GitHub stats
   -->
 # Hi There! 👋
 
-I'm Nayeon, a passionate Data Scientist with a solid foundation in Statistics and hands-on experience as a Statistical Analyst in the government sector. I excel at leveraging data-driven insights to drive impactful decisions.
+```python
+class DataScientist:
+    def __init__(self):
+        self.name = "Nayeon"
+        self.expertise = ["Data Science", "Statistics", "Machine Learning"]
+        self.experience = "Statistical Analysis in Government Sector"
+        self.mission = "Making this world a better place with data-driven decision"
+```
+
+I'm Nayeon, a Data Scientist with a solid foundation in Statistics and hands-on experience as a Statistical Analyst in the government sector. I excel at leveraging data-driven insights to drive impactful decisions.
 
 ### Connect with Me
+[![Blog](https://img.shields.io/badge/Blog-%2321759B?style=flat-square&logo=github&logoColor=white)](https://.github.io/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in//)
+[![Gmail](https://img.shields.io/badge/Gmail-%23f2a60c?style=flat-square&logo=gmail&logoColor=white)](mailto:.k.@gmail.com)
 
-[![Blog](https://img.shields.io/badge/Blog-%2321759B?style=flat-square&logo=github&logoColor=white)](https://kwonnayeon.github.io/)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@nayeonkwonds)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kwonnayeon/)
-[![Gmail](https://img.shields.io/badge/Gmail-%23f2a60c?style=flat-square&logo=gmail&logoColor=white)](mailto:nayeon.k.datacareer@gmail.com)
-
-### **Technical Skills**
-
-- **Programming Languages:** Python, R 
+### Technical Skills
+- **Programming Languages:** Python, R
 - **Data Manipulation & Querying:** SQL (Oracle, PostgreSQL, SQLite)
 - **Cloud Platform:** AWS
 - **Specialization:** Statistics (Causal Inference, Bayesian Statistics), Machine Learning (Regression, Tree-Based Models, Boosting)
 
-### **Projects**
-
-- **[SMS Spam Detection System](https://github.com/KwonNayeon/sms-spam-classifier)**
+### Projects
+- **[SMS Spam Detection System (Ongoing)](https://github.com/KwonNayeon/sms-spam-classifier)**
   - Currently building a machine learning pipeline to classify SMS spam messages using Python, focusing on robust text classification techniques.
 
-- **[Causal Effect of Urban Parks on Children’s Happiness](https://github.com/KwonNayeon/urban-parks-childrens-happiness)**
+- **[Causal Effect of Urban Parks on Children's Happiness](https://github.com/KwonNayeon/urban-parks-childrens-happiness)**
   - Investigated the causal impact of urban park size on children's happiness using propensity score methods, uncovering valuable insights for urban planning.
 
 - **[Small and Medium-sized Enterprises (SMEs) Closure Prediction Project](https://github.com/KwonNayeon/numble)**
@@ -75,8 +81,6 @@ I'm Nayeon, a passionate Data Scientist with a solid foundation in Statistics an
 
 - **[Medium Post Projects](https://github.com/KwonNayeon/medium-post-projects)**
   - Explored diverse data science concepts through projects accompanying my published Medium articles, focusing on practical applications and storytelling.
- 
-Feel free to reach out if you'd like to discuss my work or explore collaboration opportunities.
 <!-- 
 ---
 
