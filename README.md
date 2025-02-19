@@ -55,19 +55,11 @@ I'm Nayeon, a Data Scientist with a solid foundation in Statistics and hands-on 
 [![Gmail](https://img.shields.io/badge/Gmail-%23f2a60c?style=flat-square&logo=gmail&logoColor=white)](mailto:nayeon.k.datacareer@gmail.com)
 
 ### Technical Skills
-```python
-technical_stack = {
-    'programming_languages': ['Python', 'R'],
-    'data_manipulation': {
-        'sql': ['Oracle', 'PostgreSQL', 'SQLite']
-    },
-    'cloud_platform': ['AWS'],
-    'core_skills': {
-        'statistics': ['Causal Inference', 'Bayesian Statistics'],
-        'machine_learning': ['Regression', 'Tree-Based Models', 'Boosting']
-    }
-}
-```
+- Programming Languages: Python, R
+- Data Manipulation: SQL (Oracle, PostgreSQL, SQLite)
+- Cloud Platform: AWS
+- Statistics: Causal Inference, Bayesian Statistics
+- Machine Learning: Regression, Tree-Based Models, Boosting
 
 ### Projects
 - **[SMS Spam Detection System (Ongoing)](https://github.com/KwonNayeon/sms-spam-classifier)**
