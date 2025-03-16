@@ -56,7 +56,7 @@ Beyond data, I enjoy staying active with **Pilates and Yoga**, watching high-spe
 
 ## Professional Profile
 > [!NOTE]  
-> <a href="https://drive.google.com/file/d/1zk2wNnKCkdr1IYzLa_zLQx88_6HOuRaB/view?usp=sharing">Download my resume</a>
+> <a href="https://drive.google.com/file/d/1zk2wNnKCkdr1IYzLa_zLQx88_6HOuRaB/view?usp=sharing">View my resume</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer" alt="footer"/>
 <!-- 
