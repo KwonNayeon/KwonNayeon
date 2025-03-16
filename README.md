@@ -26,9 +26,9 @@ I'm Nayeon, a Data Scientist with a solid foundation in Statistics and hands-on 
 ### Languages
 | Language | Proficiency |
 | -------- | ----------- |
-| Korean | Native language |
+| Korean | Native language (Volunteer language instructor) |
 | English | Advanced ([OPIC AL](https://www.actfl.org/assessments/postsecondary-assessments/oral-proficiency-interview-computer-opic)) |
-| French | Currently learning |
+| French | Beginner - [610+ days on Duolingo](https://www.duolingo.com/profile/nayeon0217) |
 
 ## Publications & Posts
 
