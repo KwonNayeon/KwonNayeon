@@ -33,12 +33,16 @@ I'm Nayeon, a Data Scientist with a solid foundation in Statistics and hands-on 
 ## Publications & Posts
 
 ### Publication
-**Causal Effect of Urban Parks on Children’s Happiness**  
-*Nayeon Kwon & Chanmin Kim, The Korean Journal of Applied Statistics (2023)*  
-- Investigated how urban park size impacts children's happiness using causal inference techniques  
-- Driven by a passion for leveraging data to create a better world  
-
-🔗 [Read More](https://www.kjas.or.kr/journal/view.html?doi=10.5351/KJAS.2023.36.1.063)
+<details>
+  <summary>Causal Effect of Urban Parks on Children's Happiness</summary>
+  
+  *Nayeon Kwon & Chanmin Kim, The Korean Journal of Applied Statistics (2023)*
+  
+  - Investigated how urban park size impacts children's happiness using causal inference techniques
+  - Driven by a passion for leveraging data to create a better world
+  
+  🔗 [Read More](https://www.kjas.or.kr/journal/view.html?doi=10.5351/KJAS.2023.36.1.063)
+</details>
 
 ### Latest Medium Posts  
 <details>
