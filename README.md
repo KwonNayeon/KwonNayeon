@@ -1,25 +1,4 @@
-<!-- 
-[![header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=300&section=header&text=Hello%20World!%20I'm%20Nayeon&fontSize=60&fontAlignY=40&desc=Passionate%20Data%20Scientist&descAlignY=55&descAlign=70&fontColor=ffffff)](https://github.com/kyechan99/capsule-render/tree/master)
-
-### Hi Everyone! 👋
-
-👩‍💻 **Welcome! I’m Nayeon, a Passionate Data Scientist** with over two years of academic experience in Statistics and more than a year of practical work as a Statistical Analyst in a government organization. I am committed to making the world a better place through data-driven decisions.
-
-📚 **My Expertise Lies in Causal Inference,** where I have conducted quantitative analyses, such as evaluating the causal effect of urban parks on children's happiness. My technical skills include:
-
-- **Programming Languages:** Python, R
-- **Data Manipulation & Querying:** SQL - Oracle, PostgreSQL
-- **Continuous Learning:** I stay up-to-date with the latest technologies through self-directed learning.
-
-🔎 **I’m Actively Seeking** a full-time position as a Junior Data Scientist or Machine Learning Engineer. I’m eager to join a company that values inclusivity and offers opportunities for growth and development.
-
----
-
-### 🛠️ Tools & Technologies
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KwonNayeon&layout=compact&hide=jupyter%20notebook,shell,HTML,css&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-  -->
-# Hi There! 👋
+# Hi Everyone!
 
 I'm Nayeon, a Data Scientist with a solid foundation in Statistics and hands-on experience as a Statistical Analyst in the government sector. I excel at leveraging data-driven insights to drive impactful decisions.
 
@@ -34,19 +13,19 @@ I'm Nayeon, a Data Scientist with a solid foundation in Statistics and hands-on 
 
 ## Skills & Expertise
 
-### Languages
-| Language | Proficiency |
-| -------- | ----------- |
-| Korean | Native language |
-| English | Advanced ([OPIC AL](https://www.actfl.org/assessments/postsecondary-assessments/oral-proficiency-interview-computer-opic)) |
-| French | Currently learning |
-
 ### Tech Stack
 - Programming Languages: Python, R
 - Data Manipulation: SQL (Oracle, PostgreSQL, SQLite)
 - Cloud Platform: AWS
 - Statistics: Causal Inference, Bayesian Statistics
 - Machine Learning: Regression, Tree-Based Models, Boosting
+
+### Languages
+| Language | Proficiency |
+| -------- | ----------- |
+| Korean | Native language |
+| English | Advanced ([OPIC AL](https://www.actfl.org/assessments/postsecondary-assessments/oral-proficiency-interview-computer-opic)) |
+| French | Currently learning |
 
 ## Publications & Posts
 
@@ -72,7 +51,6 @@ I'm Nayeon, a Data Scientist with a solid foundation in Statistics and hands-on 
 ## Things I Love
 
 Beyond data, I enjoy staying active with **Pilates and Yoga**, watching high-speed **Formula 1** races, and diving into **mystery novels & comics**.
-
 <!-- 
 ### Projects
 - **[SMS Spam Detection System (Ongoing)](https://github.com/KwonNayeon/sms-spam-classifier)**
