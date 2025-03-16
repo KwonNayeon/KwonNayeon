@@ -15,34 +15,9 @@
 
 ---
 
-### 🌐 Connect with Me
-
-[![Blog Badge](https://img.shields.io/badge/Blog-89CFF0?style=flat-square)](https://kwonnayeon.github.io/)
-[![Medium Badge](https://img.shields.io/badge/Medium-000000?style=flat-square)](https://medium.com/@nayeonkn0330)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square)](https://www.linkedin.com/in/nayeon-kwon-443573192/)
-[![Mail Badge](https://img.shields.io/badge/Mail-f2a60c?style=flat-square)](mailto:nayeonkn0330@gmail.com)
-
----
-
 ### 🛠️ Tools & Technologies
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KwonNayeon&layout=compact&hide=jupyter%20notebook,shell,HTML,css&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### ⭐ GitHub Stats
-
-Uncomment the line below to show your GitHub stats
-[![Nayeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=KwonNayeon&count_private=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-**Note:**
-
-- The header image was generated using [capsule-render](https://github.com/kyechan99/capsule-render), an amazing project by [KyeChan99](https://github.com/kyechan99). If you're interested in creating your own custom headers, check out the [repository](https://github.com/kyechan99/capsule-render).
-- The `github-readme-stats` is an amazing tool created by [Anurag Hazra](https://github.com/anuraghazra). Make sure to check out the [repository](https://github.com/anuraghazra/github-readme-stats) if you want to add similar stats to your GitHub profile! 
-
-[![header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=250&section=header&text=Hello%20World!%20I'm%20Nayeon&fontSize=50&fontAlignY=40&desc=Data%20Scientist&descAlignY=60&descAlign=70&fontColor=ffffff)](https://github.com/kyechan99/capsule-render/tree/master)
   -->
 # Hi There! 👋
 
@@ -50,17 +25,55 @@ I'm Nayeon, a Data Scientist with a solid foundation in Statistics and hands-on 
 
 ### Connect with Me
 [![Blog](https://img.shields.io/badge/Blog-%2321759B?style=flat-square&logo=github&logoColor=white)](https://kwonnayeon.github.io/)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@nayeonkwonds)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kwonnayeon/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23f2a60c?style=flat-square&logo=gmail&logoColor=white)](mailto:nayeon.k.datacareer@gmail.com)
 
-### Technical Skills
+### GitHub stats
+![Nayeon's Stats](https://github-readme-stats.vercel.app/api?username=KwonNayeon&theme=cobalt2&show_icons=true&hide_border=true&count_private=true)
+![KwonNayeon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=KwonNayeon&theme=cobalt2&hide_border=true)
+
+## Skills & Expertise
+
+### Languages
+| Language | Proficiency |
+| -------- | ----------- |
+| Korean | Native language |
+| English | Advanced ([OPIC AL](https://www.actfl.org/assessments/postsecondary-assessments/oral-proficiency-interview-computer-opic)) |
+| French | Currently learning |
+
+### Tech Stack
 - Programming Languages: Python, R
 - Data Manipulation: SQL (Oracle, PostgreSQL, SQLite)
 - Cloud Platform: AWS
 - Statistics: Causal Inference, Bayesian Statistics
 - Machine Learning: Regression, Tree-Based Models, Boosting
 
+## Publications & Posts
+
+### Publication
+**Causal Effect of Urban Parks on Children’s Happiness**  
+*Nayeon Kwon & Chanmin Kim, The Korean Journal of Applied Statistics (2023)*  
+- Investigated how urban park size impacts children's happiness using causal inference techniques  
+- Driven by a passion for leveraging data to create a better world  
+
+🔗 [Read More](https://www.kjas.or.kr/journal/view.html?doi=10.5351/KJAS.2023.36.1.063)
+
+### Latest Medium Posts  
+<details>
+  <summary>Click to expand</summary>
+
+- [Deep Dive into Word Cloud Creation](https://nayeonkwonds.medium.com/deep-dive-into-word-cloud-creation-c2fc7fc09c12)
+- [How to Reduce an Insecurity Mindset as a Job Seeker](https://nayeonkwonds.medium.com/how-to-reduce-an-insecurity-mindset-as-a-job-seeker-f8e36d948d27)
+- [Web Scraping and Text Analysis of Travel Trends on Blogs](https://nayeonkwonds.medium.com/web-scraping-and-text-analysis-of-travel-trends-on-blogs-e83a453d34ed)
+
+🔗 [More on Medium](https://medium.com/@nayeonkwonds)
+</details>
+
+## Things I Love
+
+Beyond data, I enjoy staying active with **Pilates and Yoga**, watching high-speed **Formula 1** races, and diving into **mystery novels & comics**.
+
+<!-- 
 ### Projects
 - **[SMS Spam Detection System (Ongoing)](https://github.com/KwonNayeon/sms-spam-classifier)**
   - Currently building a machine learning pipeline to classify SMS spam messages using Python, focusing on robust text classification techniques.
@@ -73,7 +86,6 @@ I'm Nayeon, a Data Scientist with a solid foundation in Statistics and hands-on 
 
 - **[Medium Post Projects](https://github.com/KwonNayeon/medium-post-projects)**
   - Explored diverse data science concepts through projects accompanying my published Medium articles, focusing on practical applications and storytelling.
-<!-- 
 ---
 
 **Note:** The header image was generated using [capsule-render](https://github.com/kyechan99/capsule-render). The GitHub stats are powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
