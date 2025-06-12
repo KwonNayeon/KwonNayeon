@@ -13,6 +13,7 @@ I'm Nayeon, a Data Scientist with a solid foundation in Statistics and hands-on 
 ### GitHub stats
 <!-- ![Nayeon's Stats](https://github-readme-stats.vercel.app/api?username=KwonNayeon&theme=cobalt2&show_icons=true&hide_border=true&count_private=true) -->
 ![Nayeon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=KwonNayeon&theme=cobalt2&hide_border=true)
+![KwonNayeon's Stats](https://github-readme-stats.vercel.app/api?username=KwonNayeon&theme=cobalt2&show_icons=true&hide_border=true&count_private=true)
 
 ## Skills & Expertise
 
