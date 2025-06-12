@@ -11,9 +11,10 @@ I'm Nayeon, a Data Scientist with a solid foundation in Statistics and hands-on 
 [![Gmail](https://img.shields.io/badge/Gmail-%23f2a60c?style=flat-square&logo=gmail&logoColor=white)](mailto:nayeon.k.datacareer@gmail.com)
 
 ### GitHub stats
-<!-- ![Nayeon's Stats](https://github-readme-stats.vercel.app/api?username=KwonNayeon&theme=cobalt2&show_icons=true&hide_border=true&count_private=true) -->
-![Nayeon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=KwonNayeon&theme=cobalt2&hide_border=true)
-![KwonNayeon's Stats](https://github-readme-stats.vercel.app/api?username=KwonNayeon&theme=cobalt2&show_icons=true&hide_border=true&count_private=true)
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KWonNayeon&theme=cobalt2&hide_border=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=KWonNayeon&theme=cobalt2&show_icons=true&hide_border=true&count_private=true" height="150">
+</div>
 
 ## Skills & Expertise
 
