@@ -3,7 +3,7 @@
   <h1>Hi Everyone!</h1>
 </div>
 
-I'm Nayeon, a Data Scientist with a solid foundation in Statistics and hands-on experience as a Statistical Analyst in the government sector. I excel at leveraging data-driven insights to drive impactful decisions.
+I'm Nayeon, a data professional with a solid foundation in statistics and hands-on experience in machine learning and analytics. I excel at leveraging data-driven insights to drive impactful decisions.
 
 ### Connect with Me
 [![Blog](https://img.shields.io/badge/Blog-%23000000?style=flat-square&logo=github&logoColor=white)](https://kwonnayeon.github.io/)
@@ -19,11 +19,13 @@ I'm Nayeon, a Data Scientist with a solid foundation in Statistics and hands-on 
 ## Skills & Expertise
 
 ### Tech Stack
-- **Programming Languages**: Python, R
-- **Data & Databases**: SQL (Oracle, PostgreSQL, SQLite)
-- **Cloud & AI**: AWS Certified Cloud Practitioner, AI Practitioner
-- **Statistics**: Causal Inference, Bayesian Statistics
-- **Machine Learning**: Regression, Tree-Based Models, Boosting
+- **Programming Languages**: Python, R, SQL
+- **Machine Learning & AI**: LLM (OpenAI), Deep Learning, LangChain
+- **Data Engineering**: FastAPI, Supabase, Docker
+- **Cloud**: AWS AI Practitioner, AWS Cloud Practitioner
+- **Data Visualization**: Tableau, Matplotlib, Seaborn
+- **Version Control**: Git
+- **Statistics**: Statistical Modeling, Hypothesis Testing, Causal Inference
 
 ### Languages
 | Language | Proficiency |
