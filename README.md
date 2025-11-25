@@ -8,7 +8,7 @@ I'm Nayeon, a data professional with a solid foundation in statistics and hands-
 ### Connect with Me
 [![Blog](https://img.shields.io/badge/Blog-%23000000?style=flat-square&logo=github&logoColor=white)](https://kwonnayeon.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kwonnayeon/)
-[![Gmail](https://img.shields.io/badge/Gmail-%23f2a60c?style=flat-square&logo=gmail&logoColor=white)](mailto:nayeon.k.datacareer@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-%23f2a60c?style=flat-square&logo=gmail&logoColor=white)](mailto:anna.k.datacareer@gmail.com)
 
 ### GitHub stats
 <div align="left">
