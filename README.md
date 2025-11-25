@@ -3,7 +3,7 @@
   <h1>Hi Everyone!</h1>
 </div>
 
-I'm Nayeon, a data professional with a solid foundation in statistics and hands-on experience in machine learning and analytics. I excel at leveraging data-driven insights to drive impactful decisions.
+I'm Nayeon (Anna), a data professional with a solid foundation in statistics and hands-on experience in machine learning and analytics. I excel at leveraging data-driven insights to drive impactful decisions.
 
 ### Connect with Me
 [![Blog](https://img.shields.io/badge/Blog-%23000000?style=flat-square&logo=github&logoColor=white)](https://kwonnayeon.github.io/)
