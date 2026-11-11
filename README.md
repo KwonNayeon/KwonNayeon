@@ -32,7 +32,7 @@ I'm Nayeon (Anna), a data professional with a solid foundation in statistics and
 | -------- | ----------- |
 | Korean | Native language (Volunteer language instructor) |
 | English | Advanced ([OPIC AL](https://www.actfl.org/assessments/postsecondary-assessments/oral-proficiency-interview-computer-opic)) |
-| French | Beginner - [670+ days on Duolingo](https://www.duolingo.com/profile/nayeon0217) |
+| French | Beginner - 670+ days on Duolingo |
 
 ## Publications & Posts
 
